@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PDB SYMBOL LIBRARY")(type "KiCad")(uri "${KIPRJMOD}/PDB SYMBOL LIBRARY.kicad_sym")(options "")(descr ""))
+)
